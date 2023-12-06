@@ -120,7 +120,7 @@ This project is licensed under the [MIT License](link-to-license).
 ## Acknowledgements
 
 WeaveSwap has been developed by 4 developers from different parts of the world 
-David Zhang
-Matt Sampson
-N Divij
-Olawande Armstrong
+- David Zhang
+- Matt Sampson
+- N Divij
+- Olawande Armstrong
