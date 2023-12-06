@@ -8,13 +8,13 @@ WeaveSwap is a decentralized cross-chain swap application developed as part of t
 - **User-Friendly Interface:** An intuitive interface designed to simplify the swapping process for both novice and experienced users.
 - **Security:** WeaveSwap prioritizes security, employing industry best practices and smart contract audits to ensure a safe swapping environment.
 
-🛠️ ##Challenges:
+## Challenges
 
 - **Cross-Chain Interoperability Protocol (CCIP):** Implementing a robust Cross-Chain Interoperability Protocol posed significant challenges. Ensuring compatibility and efficient communication between disparate blockchain networks required intricate protocol design and careful consideration of various consensus mechanisms and token standards.
 - **Standardization Hurdles:** Overcoming the lack of standardized formats for data transmission and transaction execution across multiple blockchains was a persistent challenge. Achieving seamless interaction and asset transfer between distinct protocols required extensive research and implementation efforts.
 - **Protocol Security and Consistency:** Maintaining security while ensuring consistent transactional behavior across different chains introduced complexities. Addressing potential vulnerabilities and ensuring the reliability of cross-chain transactions demanded rigorous testing and analysis.
 
-🌟 ##Learnings:
+## Learnings
 
 - **CCIP Dynamics:** Navigating the complexities of Cross-Chain Interoperability Protocols provided invaluable insights into the intricacies of blockchain communication and interoperability. Understanding CCIP standards and their impact on decentralized applications deepened our knowledge base.
 - **Standardization Efforts:** Overcoming hurdles related to non-standardized formats enhanced our appreciation for the significance of protocol standardization. Exploring interoperability solutions helped identify best practices for seamless data transmission and transaction execution.
