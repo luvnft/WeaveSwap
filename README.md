@@ -2,8 +2,7 @@
 
 WeaveSwap is a decentralized cross-chain swap application developed as part of the Chainlink Hackathon. The platform leverages Chainlink technology to enable seamless and secure swapping of assets across different blockchain networks.
 
-![285594339-4ea809f6-9be7-429c-a573-de16b84c6c48](https://github.com/Constellation-chainlink/WeaveSwap/assets/125990317/8afe5feb-f8cc-4db2-ac45-cf22a2814cd3)
-
+![24011701872565_ pic](https://github.com/Constellation-chainlink/WeaveSwap/assets/125990317/91f74571-6b13-4c86-aa60-d7c8228068ef)
 
 ## Features
 
@@ -25,7 +24,7 @@ WeaveSwap is a decentralized cross-chain swap application developed as part of t
 
 ## Tech Stack
 
-- **Smart Contracts:** Solidity, Chainlink , CCIP
+- **Smart Contracts:** Solidity, Chainlink CCIP, Ethers, Javascript, Typescript, Hardhat, Avalanche, Polygon
 - **Frontend:** Next.js, Redux,Tailwind
 - **Backend:** Node.js (or relevant backend technology)
 - **Blockchain Networks:** Right now for hackathon purpose we have completed all chains from and to sepolia
