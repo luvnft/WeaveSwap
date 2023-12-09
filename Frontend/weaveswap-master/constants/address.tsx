@@ -19,7 +19,7 @@ export const Sepolia_to_mumbai_SourceChainSender =
   "0x88074CF679345CdCd177aBFbBE1dB99acf6B2e2b";
 
 export const Sepolia_Approve_contract =
-  "0x779877A7B0D9E8603169DdbD7836e478b4624789";
+  "0x44d062b25c1dCC46b3456cc9D0C8804aa90Dc8D4";
 
 // Optimism_to_Eth_Sepolia -> Eth_Sepolia
 

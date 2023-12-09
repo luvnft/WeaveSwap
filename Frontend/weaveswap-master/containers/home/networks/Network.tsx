@@ -26,7 +26,7 @@ export default function Network() {
       <section className={styles.networkSection}>
         <h1>Cross-Chain Compatibility </h1>
         <p>
-          Unlock the potential of diverse blockchain networks. WeaveSwap enables
+          Unlock the potential of diverse blockchain networks. Swap enables
           you to effortlessly conduct transactions across different chains,
           expanding your possibilities.
         </p>

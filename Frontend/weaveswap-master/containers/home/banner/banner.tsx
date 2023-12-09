@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Banner() {
   return (
     <div className={styles.Banner}>
-      <button className={styles.welcome_Banner}>Welcome to WeaveSwap</button>
+      <button className={styles.welcome_Banner}>Welcome to Swap</button>
       <h1>
         Your One-shop access to{" "}
         <span className={styles.decentralized}>
@@ -12,7 +12,7 @@ export default function Banner() {
         </span>{" "}
       </h1>
       <p>
-        Welcome to WeaveSwap, where blockchain meets simplicity. Seamlessly
+        Welcome to Swap, where blockchain meets simplicity. Seamlessly
         exchange assets across different chains with confidence and ease.
       </p>
       <div className={styles.btn_div}>

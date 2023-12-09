@@ -1,14 +1,14 @@
 # WeaveSwap: Cross-Chain Swap Application
 
-WeaveSwap is a decentralized cross-chain swap application developed as part of the Chainlink Hackathon. The platform leverages Chainlink technology to enable seamless and secure swapping of assets across different blockchain networks.
+Swap is a decentralized cross-chain swap application developed as part of the Chainlink Hackathon. The platform leverages Chainlink technology to enable seamless and secure swapping of assets across different blockchain networks.
 
 ![24011701872565_ pic](https://github.com/Constellation-chainlink/WeaveSwap/assets/125990317/91f74571-6b13-4c86-aa60-d7c8228068ef)
 
 ## Features
 
-- **Cross-Chain Compatibility:** WeaveSwap supports the exchange of tokens/assets across various blockchain networks, providing users with flexibility and interoperability.
+- **Cross-Chain Compatibility:** Swap supports the exchange of tokens/assets across various blockchain networks, providing users with flexibility and interoperability.
 - **User-Friendly Interface:** An intuitive interface designed to simplify the swapping process for both novice and experienced users.
-- **Security:** WeaveSwap prioritizes security, employing industry best practices and smart contract audits to ensure a safe swapping environment.
+- **Security:**Swap prioritizes security, employing industry best practices and smart contract audits to ensure a safe swapping environment.
 
 ## Challenges
 
@@ -60,7 +60,7 @@ The frontend code resides in the `frontend` folder of this repository.
    npm run dev
    ```
 
-   This command starts the development server, allowing you to access the WeaveSwap interface at `http://localhost:3000`.
+   This command starts the development server, allowing you to access the Swap interface at `http://localhost:3000`.
 
 #### Smart Contracts
 
@@ -109,7 +109,7 @@ For accessing and working with the smart contracts, follow these steps:
 
 ### Usage
 
-- Access the WeaveSwap platform through the provided interface.
+- Access the Swap platform through the provided interface.
 - Connect your wallet (MetaMask, etc.) to the supported blockchain network.
 - Select the tokens/assets you want to swap and initiate the transaction.
 - Confirm the transaction details and complete the swap.
@@ -119,10 +119,4 @@ For accessing and working with the smart contracts, follow these steps:
 
 This project is licensed under the [MIT License](link-to-license).
 
-## Acknowledgements
 
-WeaveSwap has been developed by 4 developers from different parts of the world 
-- David Zhang
-- Matt Sampson
-- N Divij
-- Olawande Armstrong

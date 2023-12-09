@@ -42,15 +42,15 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       ]}
     >
       <Head>
-        <title>WeaveSwap - Unlock Seamless Cross-Chain Swaps</title>
+        <title>Swap - Unlock Seamless Cross-Chain Swaps</title>
 
         <meta
-          name="description"
-          content="Experience secure and seamless cross-chain swaps with WeaveSwap. Unlock the future of decentralized asset transactions."
+          name="Swap"
+          content="Experience secure and seamless cross-chain swaps with Swap. Unlock the future of decentralized asset transactions."
         />
         <meta
           name="keywords"
-          content="WeaveSwap, cross-chain swaps, decentralized assets, blockchain, digital asset exchange"
+          content="Swap, cross-chain swaps, decentralized assets, blockchain, digital asset exchange"
         />
         <meta name="author" content="Your Name or Your Company Name" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
