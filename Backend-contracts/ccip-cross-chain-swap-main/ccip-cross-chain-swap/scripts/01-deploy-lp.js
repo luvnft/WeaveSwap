@@ -1,9 +1,9 @@
 // imports
 const { run, network, getNamedAccounts, ethers } = require("hardhat")
 
-const linkTokenAddress = "0x779877A7B0D9E8603169DdbD7836e478b4624789"
+const linkTokenAddress = "0x44d062b25c1dCC46b3456cc9D0C8804aa90Dc8D4"
 const FUND_AMOUNT = ethers.utils.parseEther("1")
-
+0x44d062b25c1dCC46b3456cc9D0C8804aa90Dc8D4
 // async main
 async function main() {
     const { deployer } = await getNamedAccounts()
